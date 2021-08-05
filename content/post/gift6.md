@@ -8,6 +8,6 @@ Ok this one's kind of a joke, but now that you're a **DC Consultant**, I thought
 
 You are now the proud owner of a... (thrifted) Columbia business vest!!! After you put it on, please teach me about stocks bro.
 
-{{< figure src="https://justinoeuf.github.io/happy_birthday_maya/static/images/vest.jpg">}}
+{{< figure src="/images/vest.jpg">}}
 
 (Yes it's my old one, but it's yours now)
