@@ -3,15 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/</loc>
+    <lastmod>2021-08-04T12:53:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/post/intro/</loc>
+    <lastmod>2021-08-04T12:53:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/post/</loc>
+    <lastmod>2021-08-04T12:53:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/post/gift1/</loc>
+    <lastmod>2021-08-04T11:52:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/post/gift3/</loc>
+    <lastmod>2021-08-04T10:53:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/post/gift2/</loc>
+    <lastmod>2021-08-04T09:56:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/post/gift6/</loc>
+    <lastmod>2021-08-04T09:55:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/post/gift4/</loc>
+    <lastmod>2021-08-04T08:53:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/post/gift5/</loc>
+    <lastmod>2021-08-04T07:53:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://justinoeuf.github.io/happy_birthday_maya/tags/</loc>
   </url>
   
 </urlset>
