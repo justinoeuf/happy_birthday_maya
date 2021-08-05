@@ -1,7 +1,7 @@
 ---
 title: "You Don't Have the Moxie"
 date: 2021-08-04T07:53:21-05:00
-draft: true
+draft: false
 image: "paper.PNG"
 ---
 # &#x2611; Look into Glamnetics

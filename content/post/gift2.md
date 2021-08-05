@@ -1,7 +1,7 @@
 ---
 title: "Yes, put it on my Banana Republic Platinum Plus Preferred Deluxe Card please"
 date: 2021-08-04T09:56:06-05:00
-draft: true
+draft: false
 image: "middle.PNG"
 ---
 # &#x2611; Begin search for new credit card

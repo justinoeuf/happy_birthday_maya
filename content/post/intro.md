@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 date: 2021-08-04T12:53:51-05:00
-draft: true
+draft: false
 image: "side_face.JPG"
 
 ---

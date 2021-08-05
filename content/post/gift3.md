@@ -1,7 +1,7 @@
 ---
 title: "Cook the Books"
 date: 2021-08-04T10:53:12-05:00
-draft: true
+draft: false
 image: "mulan.PNG"
 ---
 # &#x2611; Read a cookbook like *Salt Fat Acid Heat*, or watch  its Netflix special

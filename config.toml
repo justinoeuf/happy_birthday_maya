@@ -1,3 +1,4 @@
+#baseURL = "www.example.com/"
 baseURL = "https://justinoeuf.github.io/happy_birthday_maya/"
 languageCode = "en-us"
 title = "Happy Birthday!!"

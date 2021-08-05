@@ -1,7 +1,7 @@
 ---
 title: "Hello, Inbox Zero"
 date: 2021-08-04T11:52:54-05:00
-draft: true
+draft: false
 image: "mask.PNG"
 ---
 # &#x2611; Create a new google account for mail

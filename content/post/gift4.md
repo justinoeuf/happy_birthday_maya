@@ -1,7 +1,7 @@
 ---
 title: "We Hate Hackers"
 date: 2021-08-04T08:53:17-05:00
-draft: true
+draft: false
 image: "mustache.PNG"
 ---
 # &#x2611; Organize and update compromised passwords
