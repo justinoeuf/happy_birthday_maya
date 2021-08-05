@@ -6,7 +6,7 @@ image: "mustache.PNG"
 ---
 # &#x2611; Organize and update compromised passwords
 
-{{< figure src="/images/xkcd.png">}}
+{{< figure src="https://justinoeuf.github.io/happy_birthday_maya/static/images/xkcd.png">}}
 
 The above is one of my favorite xkcd comics. It's a humorous insight into the modern dilemma of keeping track of your passwords.
 

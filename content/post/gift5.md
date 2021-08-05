@@ -6,7 +6,7 @@ image: "paper.PNG"
 ---
 # &#x2611; Look into Glamnetics
 
-{{< figure src="/images/glam.png">}}
+{{< figure src="https://justinoeuf.github.io/happy_birthday_maya/static/images/glam.png">}}
 
 LOL. I've learned a lot about magnetic lashes this week. Not sure what conversation we had that resulted in this being on the list, but here it is! You have one set of lashes + liner combo to experiment with. Apparently, Glamnetics magnetic lashes are the best for Asian eyes?
 

@@ -6,7 +6,7 @@ image: "mask.PNG"
 ---
 # &#x2611; Create a new google account for mail
 
-{{< figure src="/images/logo.png">}}
+{{< figure src="https://justinoeuf.github.io/happy_birthday_maya/static/images/logo.png">}}
 
 This is the one we talked about in the car! It was agreed that you NEED a new email. One's been made for ya now. You can use the old one for all the shady web newsletters you can sign up for!
 
