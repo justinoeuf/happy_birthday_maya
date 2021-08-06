@@ -13,5 +13,5 @@ This is the one we talked about in the car! It was agreed that you NEED a new em
 {{< figure src="/images/gmail.png">}}
 
 ## Credentials:
-`Email: maya.al.bian@gmail.com`    
-`Password: summer2do`
+`Email: [removed]`    
+`Password: [removed]`

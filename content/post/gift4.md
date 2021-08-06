@@ -16,5 +16,5 @@ Introducing to you Bitwarden! It's a free, open source password management servi
 
 The above image is your Bitwarden profile. It can be accessed with the following credentials:
 
-`Email: maya.al.bian@gmail.com`    
-`Password: summer2do`
+`Email: [removed]`    
+`Password: [removed]`

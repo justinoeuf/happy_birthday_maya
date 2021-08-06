@@ -11,5 +11,5 @@ image: "middle.PNG"
 It's time. And you deserve better than fast-fashion finances. You now have NerdWallet account set up and ready to be used for credit card comparison. [Here's an article from them to get you started.]("https://www.nerdwallet.com/article/credit-cards/how-to-pick-the-best-credit-card-for-you-4-easy-steps?trk=nw_gn_5.0") I recommend a cash-back card as you don't strike me as a "perks" or "travel" rewards kinda gal. NerdWallet also offers new featurs now like credit score tracking and a budgeting manager.
 
 ## Login Credentials:
-`Email: maya.al.bian@gmail.com`    
-`Password: summer2doUppercase`
+`Email: [removed]`    
+`Password: [removed]`
